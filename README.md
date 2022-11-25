@@ -1,11 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/112857190/203963795-5df6203e-f166-400d-b6c5-36b2f8a2b838.png">
 
-# Naam deeltaak
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/112857190/203963828-0ba40d43-e3c1-4a6d-9926-3e9f160ac318.png">
 
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/112857190/203963764-e4de2872-995a-420c-a9f4-448bae4c3486.png">
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
